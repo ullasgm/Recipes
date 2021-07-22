@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="no_network_error">There was an error. Please check your internet connection and try again.</string>
+    <string name="retry">"Retry"</string>
+    <string name="no_network_name">No Network</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="what_s_cooking">What\'s cooking</string>
+    <string name="shared_with_you_by">"Shared with you by: "</string>
+</resources>
